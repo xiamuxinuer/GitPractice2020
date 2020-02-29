@@ -13,5 +13,8 @@ public class practice {
 
         System.out.println("new message");
 
+
+        System.out.println("now i figured it out");
+
     }
 }
