@@ -5,9 +5,9 @@ public class StringPractice {
 
         System.out.println("first day of git and git hub.");
 
+String str="java is fun";
 
-
-
+        System.out.println(str);
 
 
 
